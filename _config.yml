@@ -1,0 +1,23 @@
+# Name of your blog (this will show up in the RSS feed)
+name: William Heath
+
+# Short description (will also be used in the RSS feed)
+description: William John Heath
+
+# The URL of your actual domain. This will be used to make absolute links in the RSS feed.
+url: http://william.heath.cc
+
+# Makes pretty permalinks. See Jekyll docs for alternatives.
+permalink: pretty
+
+exclude:
+  - '.bundle'
+  - 'vendor'
+  - 'conf'
+  - 'bin'
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - 'Procfile'
+
+destination: _site
+markdown: redcarpet

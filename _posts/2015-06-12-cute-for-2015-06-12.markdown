@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Cute pictures!"
+date:   2015-06-12 19:49:52
+categories: jekyll update
+---
