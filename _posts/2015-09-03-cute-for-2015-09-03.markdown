@@ -6,6 +6,6 @@ categories: photos
 ---
 
 ![William and Daniel at a restaurant](
-https://files.heath.cc/sY7t92iuR92fv-a6E2M89dbqvHEoVeZYGnq3HyUAo4s=
+http://files.heath.cc.s3-website-ap-southeast-2.amazonaws.com/sY7t92iuR92fv-a6E2M89dbqvHEoVeZYGnq3HyUAo4s=
 "title"
 )
