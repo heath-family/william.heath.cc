@@ -2,7 +2,7 @@
 layout: post
 title:  "The family business"
 date:   2015-06-12 13:00:00
-categories: videos photos
+categories: photos
 ---
 
 ![William sitting at a computer](http://files.heath.cc.s3-website-ap-southeast-2.amazonaws.com/William%20Heath/Week18%20Will%201.jpg "Did you break the build?")
